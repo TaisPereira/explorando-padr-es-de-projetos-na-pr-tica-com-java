@@ -1,1 +1,1 @@
-# explorando-padr-es-de-projetos-na-pr-tica-com-java
+# explorando-padroes-de-projetos-na-pratica-com-java
